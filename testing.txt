@@ -1,2 +1,3 @@
 User 1 updates : Feature 1 updated by the user
-User 2 updates : Feature 2 updated by the user
+User 1 updated : Feature 3 updated by the user after user2 initial pull request
+User 1 updates : Feature 2 updated by the user
