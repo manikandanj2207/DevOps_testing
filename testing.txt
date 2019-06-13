@@ -1,1 +1,2 @@
 User 1 updates : Feature 1 updated by the user
+User 2 updates : Feature 2 updated by the user
